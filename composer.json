@@ -1,9 +1,9 @@
 {
-    "name": "dima/simplecalc",
+    "name": "dmytrotus/simplecalc",
     "description": "This is package with receive 2 numbers and return sum of them",
     "authors": [
         {
-            "name": "Dima",
+            "name": "Dmytro Tus",
             "email": "dmytrotus@gmail.com"
         }
     ],
@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "dima\\simplecalc\\": "src/"
+            "dmytrotus\\simplecalc\\": "src/"
         }
     }
 }
