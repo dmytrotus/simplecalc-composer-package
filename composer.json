@@ -1,6 +1,11 @@
 {
     "name": "dmytrotus/simplecalc",
     "description": "This is package with receive 2 numbers and return sum of them",
+    "type": "package",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "license": "mit",
     "authors": [
         {
             "name": "Dmytro Tus",
@@ -14,5 +19,6 @@
         "psr-4": {
             "dmytrotus\\simplecalc\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev",
 }
